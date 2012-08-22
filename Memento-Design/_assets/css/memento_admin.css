@@ -1,0 +1,14 @@
+#header-logo {
+	display: none;
+}
+
+#update-nag,
+/*#screen-meta,*/
+.turbo-nag,
+#favorite-actions,
+#user_info,
+#your-profile .form-table a,
+#wp-version-message,
+#footer-upgrade {
+	display: none;
+}
