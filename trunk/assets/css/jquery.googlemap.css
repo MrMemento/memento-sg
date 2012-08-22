@@ -1,0 +1,27 @@
+.gmap #message,
+.gmap #gmap_list {
+	position:absolute;
+}
+	.gmap #gmap_list li {
+		list-style:none;
+		padding:3px;
+		margin-bottom:2px;
+	}
+	.gmap #gmap_list li:hover {
+		cursor:pointer;
+		cursor:hand;
+	}
+.gmap .accordion {
+	font-size:12px!important;
+	width:150px;
+}
+.gmap .ui-dialog,
+.gmap .ui-slider {
+	font-size:12px!important;
+}
+.gmap .icon {
+	position:absolute;
+	cursor:pointer;
+	cursor:hand;
+	padding:3px;
+}
