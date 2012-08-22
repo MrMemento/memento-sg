@@ -1,0 +1,46 @@
+.dragdrop_panel {
+	float:left;
+	width:350px;
+	margin:10px;
+}
+
+.dragdrop_panel ul {
+	list-style-type:none;
+	border:1px solid #999;
+	background:#ccc;
+	padding:10px;
+	min-height:100px;
+	width:330;
+}
+
+.dragdrop_panel li {
+	display:block;
+	border:1px solid #999;
+	background:#fff;
+	width:300px;
+	padding:5px 10px;
+	margin-bottom:5px;
+}
+
+.dragdrop_panel .dds_selected {
+	background:#ffc;
+}
+
+.dragdrop_panel .dds_ghost {
+	opacity:0.5;
+}
+
+.dragdrop_panel .dds_move {
+	width:300px;
+	background:#cfc;
+}
+
+.dragdrop_panel .dds_hover {
+	background:#fc9;
+	border:1px solid #c96;
+}
+
+.dragdrop_panel .holder {
+	border:3px #333;
+	background:#fff;
+}
