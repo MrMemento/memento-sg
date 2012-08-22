@@ -1,0 +1,158 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Memento-Design\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-05-02 01:28+0100\n"
+"PO-Revision-Date: 2010-05-02 01:28+0100\n"
+"Last-Translator: Memento <barnabas.bucsy@mementomedia.net>\n"
+"Language-Team: Memento-Media <barnabas.bucsy@mementomedia.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ./../..\n"
+
+#: ../../Memento-Design.php:571
+#: ../../Memento-Design.php:572
+msgid "Registration Form"
+msgstr "Regisztráció Űrlap"
+
+#: ../../Memento-Design.php:601
+msgid "Title:"
+msgstr "Cím:"
+
+#: ../../Memento-Design.php:618
+#: ../../Memento-Design.php:641
+msgid "Registration"
+msgstr "Regisztráció"
+
+#: ../../Memento-Design.php:634
+msgid "Register"
+msgstr "Regisztráció"
+
+#: ../../Memento-Design.php:635
+#: ../../Memento-Design.php:647
+msgid "E-Mail"
+msgstr "E-Mail"
+
+#: ../../Memento-Design.php:636
+#: ../../Memento-Design.php:644
+#: ../../Memento-Design.php:719
+msgid "User Name"
+msgstr "Felhasználónév"
+
+#: ../../Memento-Design.php:637
+#: ../../Memento-Design.php:681
+#: ../../Memento-Design.php:827
+msgid "E-mail or username"
+msgstr "E-mail vagy felhasználónév"
+
+#: ../../Memento-Design.php:658
+msgid "Please enter the letters shown"
+msgstr "Írja be a képen látható betűket"
+
+#: ../../Memento-Design.php:664
+msgid "A password will be e-mailed to you."
+msgstr "A jelszavát e-mailben küldjük el."
+
+#: ../../Memento-Design.php:674
+msgid "Please enter your username or e-mail address. You will receive a new password via e-mail."
+msgstr "Adja meg felhasználónevét vagy e-mail címét"
+
+#: ../../Memento-Design.php:678
+msgid "Retrieve password"
+msgstr "Új jelszó kérése"
+
+#: ../../Memento-Design.php:686
+msgid "Get New Password"
+msgstr "Új jelszó generálás"
+
+#: ../../Memento-Design.php:699
+msgid "You are already registered for this site."
+msgstr "Ön már regisztrált az oldalra."
+
+#: ../../Memento-Design.php:722
+#, php-format
+msgid "User name must be at least %d characters long and may not contain any special characters"
+msgstr "A felhasználónévnek minimum %d karakter hosszúnak kell lennie. és nem tartalmazhat speciális valamint ékezetes karaktereket"
+
+#: ../../Memento-Design.php:731
+msgid "Please enter valid e-mail address"
+msgstr "Kérjük valós e-mail címet adjon meg"
+
+#: ../../Memento-Design.php:739
+msgid "Please enter the letters found in the picture"
+msgstr "Írja be a képen látható betűket"
+
+#: ../../Memento-Design.php:755
+msgid "Captcha invalid, please try again"
+msgstr "A betűk felismerése nem sikerült, kérjük próbálja meg újra"
+
+#: ../../Memento-Design.php:769
+msgid "Invalid username"
+msgstr "Nem megfelelő felhasználónév"
+
+#: ../../Memento-Design.php:778
+msgid "An account with this username has already been registered"
+msgstr "Foglalt felhasználónév"
+
+#: ../../Memento-Design.php:789
+msgid "An account with this email has already been registered"
+msgstr "Foglalt e-mail cím"
+
+#: ../../Memento-Design.php:821
+msgid "Registration successful."
+msgstr "Regisztráció sikeres."
+
+#: ../../Memento-Design.php:822
+#: ../../Memento-Design.php:872
+msgid "A password was sent to you via email."
+msgstr "A generált jelszót elküldtük e-mailben."
+
+#: ../../Memento-Design.php:842
+msgid "User name or email invalid"
+msgstr "FElhasználónév vagy e-mail nem található"
+
+#: ../../Memento-Design.php:858
+#, php-format
+msgid "Thank you  for signing up on %s. Here is your password. You should longin and change it as soon as possible."
+msgstr "Köszönjük regisztrációját a(z) %s honlapján! Ebben a levélben megtalálja jelszavát."
+
+#: ../../Memento-Design.php:859
+msgid "Username"
+msgstr "Felhasználónév"
+
+#: ../../Memento-Design.php:860
+msgid "Password"
+msgstr "Jelszó:"
+
+#: ../../Memento-Design.php:861
+msgid "Login"
+msgstr "Belépés"
+
+#: ../../Memento-Design.php:865
+#, php-format
+msgid "Password reset on %s"
+msgstr "Új jelszó létrehozva a felhasználónak (%s)"
+
+#: ../../Memento-Design.php:868
+msgid "The e-mail could not be sent."
+msgstr "Az e-mailt nem tudtuk elküldeni."
+
+#: ../../Memento-Design.php:868
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Kérjük próbálkozzon később!"
+
+#: ../../Memento-Design.php:876
+msgid "E-mail or username invalid, please try again"
+msgstr "E-mail vagy felhasználónév nem található, kérjük próbálja meg újra"
+
+#~ msgid "Registration on %s"
+#~ msgstr "Regisztráció (%s)"
+
+#~ msgid "Username or E-mail:"
+#~ msgstr "Felhasználónév vagy e-mail"

@@ -1,0 +1,508 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Memento-SG v0.9r3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-04-03 19:33+0100\n"
+"PO-Revision-Date: 2010-04-03 20:02+0100\n"
+"Last-Translator: Memento <barnabas.bucsy@mementomedia.net>\n"
+"Language-Team: Memento-Media <barnabas.bucsy@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Language: Hungarian\n"
+"X-Poedit-Country: HUNGARY\n"
+"X-Poedit-SourceCharset: iso-8859-2\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../admin\n"
+"X-Poedit-SearchPath-2: ../lib\n"
+
+#: ../Memento-SG/Memento-SG.php:546
+#: ../Memento-SG/Memento-SG.php:547
+#: ../Memento-SG/Memento-SG.php:800
+msgid "Settings"
+msgstr "Beállítások"
+
+#: ../Memento-SG/Memento-SG.php:554
+#: ../Memento-SG/Memento-SG.php:589
+#: ../Memento-SG/Memento-SG.php:617
+msgid "Admin"
+msgstr "Admin"
+
+#: ../Memento-SG/Memento-SG.php:555
+msgid "Codes"
+msgstr "Kódok"
+
+#: ../Memento-SG/Memento-SG.php:561
+msgid "Shortcode List"
+msgstr "Kód Lista"
+
+#: ../Memento-SG/Memento-SG.php:562
+msgid "Shortcodes"
+msgstr "Kódok"
+
+#: ../Memento-SG/Memento-SG.php:568
+msgid "Add Plain Code"
+msgstr "HTML / Szöveg Kód"
+
+#: ../Memento-SG/Memento-SG.php:569
+msgid "Add New Plain"
+msgstr "Új HTML / Szöveg Kód"
+
+#: ../Memento-SG/Memento-SG.php:575
+msgid "Add Rich Code"
+msgstr "Vizuális Kód"
+
+#: ../Memento-SG/Memento-SG.php:576
+msgid "Add New Rich"
+msgstr "Új Vizuális Kód"
+
+#: ../Memento-SG/Memento-SG.php:582
+msgid "Add Advanced Code"
+msgstr "PHP Kód"
+
+#: ../Memento-SG/Memento-SG.php:583
+msgid "Add New Advanced"
+msgstr "Új PHP Kód"
+
+#: ../Memento-SG/Memento-SG.php:590
+#: ../Memento-SG/Memento-SG.php:596
+#: ../Memento-SG/Memento-SG.php:597
+msgid "Scripts"
+msgstr "Scriptek"
+
+#: ../Memento-SG/Memento-SG.php:603
+msgid "Add Global Script"
+msgstr "Új Globális Script"
+
+#: ../Memento-SG/Memento-SG.php:604
+#: ../Memento-SG/Memento-SG.php:632
+msgid "Add New Global"
+msgstr "Új Globális"
+
+#: ../Memento-SG/Memento-SG.php:610
+msgid "Add Dependent Script"
+msgstr "Új Függő Script"
+
+#: ../Memento-SG/Memento-SG.php:611
+#: ../Memento-SG/Memento-SG.php:639
+msgid "Add New Dependent"
+msgstr "Új Függő"
+
+#: ../Memento-SG/Memento-SG.php:618
+#: ../Memento-SG/Memento-SG.php:624
+#: ../Memento-SG/Memento-SG.php:625
+msgid "Styles"
+msgstr "Stílusok"
+
+#: ../Memento-SG/Memento-SG.php:631
+msgid "Add Global Style"
+msgstr "Új Globális Stílus"
+
+#: ../Memento-SG/Memento-SG.php:638
+msgid "Add Dependent Style"
+msgstr "Új Függő Stílus"
+
+#: ../Memento-SG/Memento-SG.php:798
+msgid "Deactivate"
+msgstr "Deaktiválás"
+
+#: ../Memento-SG/admin/deactivate.php:28
+msgid "deactivate options"
+msgstr "Deaktiválási Opciók"
+
+#: ../Memento-SG/admin/deactivate.php:44
+msgid "Plugin deactivated!"
+msgstr "Plugin deaktiválva!"
+
+#: ../Memento-SG/admin/deactivate.php:60
+msgid "Plugin deactivated, database tables dropped!"
+msgstr "Plugin deaktiválva, adatbázis táblák törölve!"
+
+#: ../Memento-SG/admin/deactivate.php:76
+msgid "Deactivate plugin"
+msgstr "Plugin deaktiválása"
+
+#: ../Memento-SG/admin/deactivate.php:83
+msgid "Deactivate plugin and delete tables from database"
+msgstr "Plugin deaktiválása és beállítások törlése"
+
+#: ../Memento-SG/admin/edit_code.php:58
+#, php-format
+msgid "Shortcode %s added."
+msgstr "%s kód hozzáadva."
+
+#: ../Memento-SG/admin/edit_code.php:66
+msgid "Shortcode was empty, please enter a shortcode!"
+msgstr "A kód mező üres volt, kérem töltse ki!"
+
+#: ../Memento-SG/admin/edit_code.php:70
+#, php-format
+msgid "Shortcode %s already exists, please use another shortcode, or edit the existing one!"
+msgstr "%s nevű kód már létezik, használjon másik nevet, vagy szerkessze az eredetit!"
+
+#: ../Memento-SG/admin/edit_code.php:108
+#, php-format
+msgid "Shortcode %s updated."
+msgstr "A %s nevű kód frissítve."
+
+#: ../Memento-SG/admin/edit_code.php:136
+#, php-format
+msgid "To use this shortode place %s into a page, post, or another generated shortcode. If your placing another shortcode inside of this one, be sure that the shortcode you've included here does not include this shortcode.<br /><b>If a shortcode contains itself, you will have created an endless loop and any page or post using this shortcode will not load.</b>"
+msgstr "Ahhoz hogy használja a %s kódot, írja be az oldal vagy bejegyzés tartalmába. Ha más kódokat is használt ennek a kódnak a tartalmában, figyeljen, hogy az érintett kód ezt NE használja!<br/><b>Ha egy kód, vagy bármely általa használt kód tartalmazza az eredetit, akkor végtelen ciklusba kerül, és így az oldal, vagy bejegyzés, ahol használják, nem fog betölteni.</b>"
+
+#: ../Memento-SG/admin/edit_code.php:140
+msgid "Enter the shortcode and the content you'd like associated with it. A shortcode is a quick and easy code that will automatically be replaced with text, images, or any other content you wish."
+msgstr "Írja be a használandó kódot, valamint a hozzárendelt tartalmat! A kód egy olyan rövid helytartó szöveg, melyet ki lehet cserélni szövegre, képekre, vagy bármire, amit el tud képzelni, és meg tud valósítani."
+
+#: ../Memento-SG/admin/edit_code.php:151
+#: ../Memento-SG/admin/list_codes.php:148
+msgid "shortcode"
+msgstr "Kód"
+
+#: ../Memento-SG/admin/edit_code.php:154
+#: ../Memento-SG/admin/list_codes.php:151
+msgid "text"
+msgstr "Szöveg"
+
+#: ../Memento-SG/admin/edit_code.php:164
+msgid "In a page or post:"
+msgstr "Oldalon vagy bejegyzésben:"
+
+#: ../Memento-SG/admin/edit_code.php:168
+msgid "In a template:"
+msgstr "Oldalsablonban:"
+
+#: ../Memento-SG/admin/edit_code.php:224
+#: ../Memento-SG/admin/edit_script.php:227
+#: ../Memento-SG/admin/edit_style.php:229
+msgid "Available Shortcodes"
+msgstr "Rendelkezésre Álló Kódok"
+
+#: ../Memento-SG/admin/edit_code.php:225
+#: ../Memento-SG/admin/edit_code.php:241
+#: ../Memento-SG/admin/edit_script.php:173
+#: ../Memento-SG/admin/edit_script.php:189
+#: ../Memento-SG/admin/edit_script.php:228
+#: ../Memento-SG/admin/edit_script.php:244
+#: ../Memento-SG/admin/edit_style.php:175
+#: ../Memento-SG/admin/edit_style.php:191
+#: ../Memento-SG/admin/edit_style.php:230
+#: ../Memento-SG/admin/edit_style.php:246
+msgid "Select"
+msgstr "Választás"
+
+#: ../Memento-SG/admin/edit_code.php:226
+#: ../Memento-SG/admin/edit_code.php:242
+#: ../Memento-SG/admin/edit_script.php:174
+#: ../Memento-SG/admin/edit_script.php:190
+#: ../Memento-SG/admin/edit_script.php:229
+#: ../Memento-SG/admin/edit_script.php:245
+#: ../Memento-SG/admin/edit_style.php:176
+#: ../Memento-SG/admin/edit_style.php:192
+#: ../Memento-SG/admin/edit_style.php:231
+#: ../Memento-SG/admin/edit_style.php:247
+msgid "All"
+msgstr "Mind"
+
+#: ../Memento-SG/admin/edit_code.php:227
+#: ../Memento-SG/admin/edit_code.php:243
+#: ../Memento-SG/admin/edit_script.php:175
+#: ../Memento-SG/admin/edit_script.php:191
+#: ../Memento-SG/admin/edit_script.php:230
+#: ../Memento-SG/admin/edit_script.php:246
+#: ../Memento-SG/admin/edit_style.php:177
+#: ../Memento-SG/admin/edit_style.php:193
+#: ../Memento-SG/admin/edit_style.php:232
+#: ../Memento-SG/admin/edit_style.php:248
+msgid "None"
+msgstr "Semelyik"
+
+#: ../Memento-SG/admin/edit_code.php:228
+#: ../Memento-SG/admin/edit_code.php:244
+#: ../Memento-SG/admin/edit_script.php:176
+#: ../Memento-SG/admin/edit_script.php:192
+#: ../Memento-SG/admin/edit_script.php:231
+#: ../Memento-SG/admin/edit_script.php:247
+#: ../Memento-SG/admin/edit_style.php:178
+#: ../Memento-SG/admin/edit_style.php:194
+#: ../Memento-SG/admin/edit_style.php:233
+#: ../Memento-SG/admin/edit_style.php:249
+msgid "Invert"
+msgstr "Fordít"
+
+#: ../Memento-SG/admin/edit_code.php:240
+#: ../Memento-SG/admin/edit_script.php:243
+#: ../Memento-SG/admin/edit_style.php:245
+msgid "Dependent Shortcodes"
+msgstr "Függő Kódok"
+
+#: ../Memento-SG/admin/edit_code.php:262
+#: ../Memento-SG/admin/edit_script.php:265
+#: ../Memento-SG/admin/edit_style.php:267
+#: ../Memento-SG/admin/list_codes.php:157
+#: ../Memento-SG/admin/list_scripts.php:158
+msgid "code dependencies"
+msgstr "kód függőségek"
+
+#: ../Memento-SG/admin/edit_code.php:265
+#: ../Memento-SG/admin/edit_script.php:271
+#: ../Memento-SG/admin/edit_style.php:273
+#: ../Memento-SG/admin/list_codes.php:160
+#: ../Memento-SG/admin/list_scripts.php:161
+msgid "actions"
+msgstr "Lehetőségek"
+
+#: ../Memento-SG/admin/edit_code.php:271
+#: ../Memento-SG/admin/edit_script.php:277
+#: ../Memento-SG/admin/edit_script.php:281
+#: ../Memento-SG/admin/edit_style.php:279
+#: ../Memento-SG/admin/edit_style.php:283
+msgid "(generated automatically on save or update of drag and drop fields)"
+msgstr "(mentéskor vagy a áthelyezéskor automatikusan generált érték)"
+
+#: ../Memento-SG/admin/edit_code.php:280
+msgid "Back to shortcodes"
+msgstr "Vissza a kódokhoz"
+
+#: ../Memento-SG/admin/edit_script.php:47
+#, php-format
+msgid "Script %s added."
+msgstr "%s script hozzáadva."
+
+#: ../Memento-SG/admin/edit_script.php:55
+msgid "Sript name was empty, please enter a name!"
+msgstr "A script mező üres volt, kérem töltse ki!"
+
+#: ../Memento-SG/admin/edit_script.php:59
+#, php-format
+msgid "Script with name %s already exists, please use another name, or edit the existing one!"
+msgstr "%s nevű script már létezik, használjon másik nevet, vagy szerkessze az eredetit!"
+
+#: ../Memento-SG/admin/edit_script.php:75
+#, php-format
+msgid "Script %s updated."
+msgstr "A %s nevű script frissítve."
+
+#: ../Memento-SG/admin/edit_script.php:104
+msgid "Here you can modify the JavaScript library to be added to your HTML frontend's head or foot. It uses <code>wp_enqueue_script</code> function, to avoid duplicate scripts, use versioning and dependencies, and to handle built in libs aswell.<br/>Dependencies should be a comma separated string WITHOUT whitespaces, this will be converted to array with <code>preg_split</code>.<br/><a href=\"http://codex.wordpress.org/Function_Reference/wp_enqueue_script\">Further reference</a>"
+msgstr "Itt a kódok által használt JavaScript könyvtárakat szerkesztheti."
+
+#: ../Memento-SG/admin/edit_script.php:108
+msgid "Here you can add JavaScript library to your HTML frontend's head or foot. It uses <code>wp_enqueue_script</code> function, to avoid duplicate scripts, use versioning and dependencies, and to handle built in libs aswell.<br/>Dependencies should be a comma separated string WITHOUT whitespaces, this will be converted to array with <code>preg_split</code>.<br/><a href=\"http://codex.wordpress.org/Function_Reference/wp_enqueue_script\">Further reference</a>"
+msgstr "Itt új JavaScript könyvtárakat adhat a kódokhoz."
+
+#: ../Memento-SG/admin/edit_script.php:118
+#: ../Memento-SG/admin/edit_style.php:117
+#: ../Memento-SG/admin/list_scripts.php:140
+msgid "name"
+msgstr "Név"
+
+#: ../Memento-SG/admin/edit_script.php:121
+#: ../Memento-SG/admin/edit_style.php:120
+#: ../Memento-SG/admin/list_scripts.php:143
+msgid "source"
+msgstr "Forrásfile"
+
+#: ../Memento-SG/admin/edit_script.php:124
+#: ../Memento-SG/admin/edit_style.php:123
+#: ../Memento-SG/admin/list_scripts.php:149
+msgid "version"
+msgstr "Verzió"
+
+#: ../Memento-SG/admin/edit_script.php:127
+#: ../Memento-SG/admin/list_scripts.php:152
+msgid "place"
+msgstr "Helye"
+
+#: ../Memento-SG/admin/edit_script.php:143
+#: ../Memento-SG/admin/list_scripts.php:192
+msgid "head"
+msgstr "head"
+
+#: ../Memento-SG/admin/edit_script.php:146
+#: ../Memento-SG/admin/list_scripts.php:192
+msgid "foot"
+msgstr "lábléc"
+
+#: ../Memento-SG/admin/edit_script.php:172
+msgid "Available Scripts"
+msgstr "Rendelkezésre álló scriptek"
+
+#: ../Memento-SG/admin/edit_script.php:188
+msgid "Dependent Scripts"
+msgstr "Függő scriptek"
+
+#: ../Memento-SG/admin/edit_script.php:268
+#: ../Memento-SG/admin/list_scripts.php:146
+msgid "script dependencies"
+msgstr "Script függőségek"
+
+#: ../Memento-SG/admin/edit_script.php:290
+msgid "Back to scripts"
+msgstr "Vissza a scriptekhez"
+
+#: ../Memento-SG/admin/edit_style.php:47
+#, php-format
+msgid "Style %s added."
+msgstr "%s nevű stílus hozzáadva."
+
+#: ../Memento-SG/admin/edit_style.php:55
+msgid "Style name was empty, please enter a name!"
+msgstr "A név mező üres volt, kérem töltse ki!"
+
+#: ../Memento-SG/admin/edit_style.php:59
+#, php-format
+msgid "Style with name %s already exists, please use another name, or edit the existing one!"
+msgstr "%s nevű stílus már létezik, használjon másik nevet, vagy szerkessze az eredetit!"
+
+#: ../Memento-SG/admin/edit_style.php:75
+#, php-format
+msgid "Style %s updated."
+msgstr "%s nevű stílus frissítve."
+
+#: ../Memento-SG/admin/edit_style.php:103
+msgid "Here you can modify the CSS stylesheets to be added to your HTML frontend's head. It uses <code>wp_enqueue_style</code> function, to avoid duplicate styles, use versioning and dependencies.<br/>Dependencies should be a comma separated string WITHOUT whitespaces, this will be converted to array with <code>preg_split</code>.<br/><a href=\"http://codex.wordpress.org/Function_Reference/wp_enqueue_style\">Further reference</a>"
+msgstr "Itt a kódok által használt stíluslapokat serkesztheti"
+
+#: ../Memento-SG/admin/edit_style.php:107
+msgid "Here you can add CSS stylesheets to your HTML frontend's head. It uses <code>wp_enqueue_style</code> function, to avoid duplicate styles, use versioning and dependencies.<br/>Dependencies should be a comma separated string WITHOUT whitespaces, this will be converted to array with <code>preg_split</code>.<br/><a href=\"http://codex.wordpress.org/Function_Reference/wp_enqueue_style\">Further reference</a>"
+msgstr "Itt új stíluslapokat adhat a kódokhoz."
+
+#: ../Memento-SG/admin/edit_style.php:126
+msgid "media"
+msgstr "Média"
+
+#: ../Memento-SG/admin/edit_style.php:174
+msgid "Available Styles"
+msgstr "Rendelkezésre Álló Stílusok"
+
+#: ../Memento-SG/admin/edit_style.php:190
+msgid "Dependent Styles"
+msgstr "Függő Stílusok"
+
+#: ../Memento-SG/admin/edit_style.php:270
+msgid "style dependencies"
+msgstr "stílus függőségek"
+
+#: ../Memento-SG/admin/edit_style.php:292
+msgid "Back to styles"
+msgstr "Vissza a stílusokhoz"
+
+#: ../Memento-SG/admin/list_codes.php:38
+msgid "Shortcode removed."
+msgstr "Kód eltávolítva."
+
+#: ../Memento-SG/admin/list_codes.php:49
+msgid "Are you sure you want to delete this shortcode?"
+msgstr "Biztos el akarja távolítani a kódot?"
+
+#: ../Memento-SG/admin/list_codes.php:80
+#, php-format
+msgid "You have <b>%s</b> shortcode(s) defined in table: <b>%s</b>."
+msgstr "Önnek <b>%s</b> db kódja van definiálva a következő táblában: <b>%s</b>."
+
+#: ../Memento-SG/admin/list_codes.php:87
+msgid "Select type of shortcode to add"
+msgstr "Válasszon új kódtípust"
+
+#: ../Memento-SG/admin/list_codes.php:90
+msgid "Rich Content Shortcode"
+msgstr "Vizuális Kód"
+
+#: ../Memento-SG/admin/list_codes.php:93
+msgid "Plain Content Shortcode"
+msgstr "HTML / Szöveg Kód"
+
+#: ../Memento-SG/admin/list_codes.php:96
+msgid "Advanced Content Shortcode"
+msgstr "PHP Kód"
+
+#: ../Memento-SG/admin/list_codes.php:101
+#: ../Memento-SG/admin/list_scripts.php:94
+msgid "Add"
+msgstr "Hozzáadás"
+
+#: ../Memento-SG/admin/list_codes.php:145
+#: ../Memento-SG/admin/list_scripts.php:137
+msgid "id"
+msgstr "id"
+
+#: ../Memento-SG/admin/list_codes.php:154
+#: ../Memento-SG/admin/list_scripts.php:155
+msgid "type"
+msgstr "típus"
+
+#: ../Memento-SG/admin/list_codes.php:191
+#: ../Memento-SG/admin/list_scripts.php:201
+msgid "edit"
+msgstr "szerkesztés"
+
+#: ../Memento-SG/admin/list_codes.php:192
+#: ../Memento-SG/admin/list_scripts.php:202
+msgid "remove"
+msgstr "törlés"
+
+#: ../Memento-SG/admin/list_codes.php:204
+msgid "There are no generated shortcodes defined."
+msgstr "Nincsenek kódok a rendszerben."
+
+#: ../Memento-SG/admin/list_scripts.php:38
+msgid "Script removed."
+msgstr "Script törölve."
+
+#: ../Memento-SG/admin/list_scripts.php:49
+msgid "Are you sure you want to delete this script?"
+msgstr "Biztosan törölni akarja a scriptet?"
+
+#: ../Memento-SG/admin/list_scripts.php:76
+#, php-format
+msgid "You have <b>%s</b> script(s) defined in table: <b>%s</b>."
+msgstr "Önnek <b>%s</b> db scriptje van definiálva a következő táblában: <b>%s</b>."
+
+#: ../Memento-SG/admin/list_scripts.php:83
+msgid "Select type of script to add"
+msgstr "Válasszon új scripttípust"
+
+#: ../Memento-SG/admin/list_scripts.php:86
+msgid "Global Script"
+msgstr "Globális Script"
+
+#: ../Memento-SG/admin/list_scripts.php:89
+msgid "Dependent Script"
+msgstr "Függő Script"
+
+#: ../Memento-SG/admin/list_scripts.php:214
+msgid "There are no scripts defined to be included."
+msgstr "Nincsenek scriptek a rendszerben."
+
+#: ../Memento-SG/admin/list_styles.php:38
+msgid "Style removed."
+msgstr "Stílus törölve."
+
+#: ../Memento-SG/admin/list_styles.php:50
+msgid "Are you sure you want to delete this style?"
+msgstr "Biztosan el akarja távolítani a stílust?"
+
+#: ../Memento-SG/admin/list_styles.php:77
+#, php-format
+msgid "You have <b>%s</b> style(s) defined in table: <b>%s</b>."
+msgstr "Önnek <b>%s</b> db stílusa van definiálva a következő táblában: <b>%s</b>."
+
+#: ../Memento-SG/admin/list_styles.php:84
+msgid "Select type of style to add"
+msgstr "Válasszon stílustípust"
+
+#: ../Memento-SG/admin/list_styles.php:87
+msgid "Global Style"
+msgstr "Globális Stílus"
+
+#: ../Memento-SG/admin/list_styles.php:90
+msgid "Dependent Style"
+msgstr "Függő Stílus"
+
+#: ../Memento-SG/admin/list_styles.php:215
+msgid "There are no styles defined to be included."
+msgstr "Nincsenek stílusok a rendszerben."
+
